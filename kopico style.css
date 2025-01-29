@@ -1,0 +1,190 @@
+.site-header-main{
+    width: 100%;
+    height: 216px;
+    background:#000000;
+    border-color: #2f2f2f;
+}
+body{
+    margin: 0;
+}
+.site-brand{
+    width: 60%;
+    height: 70px;
+    margin: auto;
+    position: relative;
+    top: 35px;
+    display: flex;
+    justify-content: center;
+}
+.site-identity{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.site-tittle{
+    height: 45px;
+    background:#000000;
+    color:  #b7b7b7;
+    font-style: normal;
+    letter-spacing: 6.5px;
+    font-family: "Playfair Display", serif;
+    text-align: center;
+    font-size: 2.75rem;
+    font-weight: normal;
+    line-height: 1.15;
+    text-align: center;
+}
+.site-discription{
+    color: #b7b7b7;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.5;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 5px;
+    text-align: center;
+}
+.site-header-menu{
+    width:90%;
+    height: 56px;
+    position: relative;
+    top:90px ;
+    display: flex;
+    justify-content: center;
+    border-top: solid rgb(30, 28, 28);
+    margin: auto;
+}
+.menu-wrapper{
+    width: 56%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu1,.menu2,.menu3,.menu4,.menu5,.menu6{
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.29px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.875rem;
+}
+.menu1{
+    color:  rgb(178, 12, 12);
+    border-top-color:solid  rgb(178, 12, 12);
+}
+.menu-wrapper div:hover{
+    color: rgb(178, 12, 12);
+}
+.menu2{
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.29px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.875rem;
+    background: #000000;
+    border: none;
+}
+.menu2:hover{
+    color: rgb(178, 12, 12);
+}
+.header-overlay{
+    width: 100%;
+    height: 1205px;
+    background: greenyellow;
+}
+.site-content{
+    width: 100%;
+    height: 1283px;
+    background: #000000;
+}
+.img-site{
+    width:100%;
+    height: 100%;
+}
+.content-element{
+    width: 90%;
+    height: 200px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.element{
+    text-align: center;
+    font-size: 22px;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 700;
+    line-height: 1.6em;
+    letter-spacing: -0.6px;
+    color:  #7A7A7A;
+}
+.copiko-img{
+    width: 880px;
+    height: 495px;
+    background: #fff;
+    margin: auto;
+    position: relative;
+    top: 90px;
+}
+.copiko{
+    width: 100%;
+}
+.icon-div{
+    width: 30%;
+    height: 31px;
+    position: relative;
+    top: 298px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    width:33%;
+    height: 30px;
+    position: relative;
+    top: 454px;
+    margin: auto;
+}
+.style-kop{
+    text-decoration: none;
+    color: #fff;
+    font-size: 0.8125rem;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin: auto;
+}
+.style-kop:hover{
+    color:rgb(178, 12, 12) ;
+    text-decoration: underline;
+}
+.footer-para{
+    color: #7A7A7A;
+    margin: auto;
+}
+.icon-img{
+    width: 355px;
+}
+
+
+
+
+
+
+
+
+
+
+
